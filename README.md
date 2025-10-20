@@ -14,7 +14,7 @@ This is my Level-1 project for the CODSOFT Web Development Internship.
 2. Open `index.html` in any browser.
 
 ## 🌐 Live Demo
-[Click here](https://<Nikhitha0102>.github.io/CODSOFT/)  <!-- Replace <your-username> -->
+[Click here](https://nikhitha0102.github.io/codsoft-calculator/)  <!-- Replace <your-username> -->
 
 ## 👩‍💻 Technologies Used
 - HTML  
