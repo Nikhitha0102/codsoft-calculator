@@ -22,4 +22,4 @@ This is my Level-1 project for the CODSOFT Web Development Internship.
 - JavaScript
 
 ## 📌 Author
-Your Name — [GitHub Profile](https://github.com/<Nikhitha0102>)
+K.Nikhitha — (https://github.com/<Nikhitha0102>)
